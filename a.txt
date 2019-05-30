@@ -4,3 +4,6 @@ cccc
 “我是在newdev分支上新增的”
 
 qqq
+
+
+我是現在內容，還沒做好，現在突然有一個任務,我不能進行add,commit提交
